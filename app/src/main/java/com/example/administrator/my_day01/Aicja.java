@@ -5,4 +5,7 @@ package com.example.administrator.my_day01;
  */
 
 public class Aicja {
+    int a=0;
+
+
 }
